@@ -13,7 +13,7 @@
 		},
 		{
 			"Name": "Freezer",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/670c085be7d2470abf756507eaba50da"
 		},
 		{
@@ -26,6 +26,10 @@
 		},
 		{
 			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
 	]
